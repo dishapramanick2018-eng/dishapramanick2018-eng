@@ -1,4 +1,4 @@
-## Hi there, I'm [Disha Pramanick] 👋
+## Hi there, I'm Disha Pramanick 👋
 
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;2%2B+Years+of+Analytics+Experience;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;AI-Powered+Analytics+%26+Reporting;Transforming+Data+into+Business+Value" alt="Typing SVG" /> </div>
 
@@ -20,13 +20,13 @@ My focus is on building dashboards that get used, automating repetitive tasks to
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Developing an end-to-end Financial Data Analytics Dashboard using SQL, Python, and Tableau to analyze revenue trends, profitability, and key financial KPIs for business decision-making.]  
-- **Project B:** [Solving advanced SQL business case studies and building analytical queries using CTEs, Window Functions, Joins, and Subqueries to generate actionable insights from large-scale datasets.]
+- **Project A:** Developing an end-to-end Financial Data Analytics Dashboard using SQL, Python, and Tableau to analyze revenue trends, profitability, and key financial KPIs for business decision-making.  
+- **Project B:** Solving advanced SQL business case studies and building analytical queries using CTEs, Window Functions, Joins, and Subqueries to generate actionable insights from large-scale datasets.
 
 ## 🌱 Currently Learning 
 
-- [Advanced Data Engineering concepts, including scalable ETL pipelines, data modeling, and cloud-based analytics workflows on Google Cloud Platform (GCP).]
-- [Generative AI and LLM-powered analytics applications, focusing on prompt engineering, AI-assisted data analysis, and business intelligence automation.]
+- Advanced Data Engineering concepts, including scalable ETL pipelines, data modeling, and cloud-based analytics workflows on Google Cloud Platform (GCP).
+- Generative AI and LLM-powered analytics applications, focusing on prompt engineering, AI-assisted data analysis, and business intelligence automation.
 
 ## 🛠️ Technical Skillset
 
