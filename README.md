@@ -1,88 +1,252 @@
-## Hi there, I'm Disha Pramanick 👋
+# Hi, I'm Disha Pramanick 👋
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence;2%2B+Years+of+Analytics+Experience;SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;AI-Powered+Analytics+%26+Reporting;Transforming+Data+into+Business+Value" alt="Typing SVG" /> </div>
+<div align="center">
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Analytics;2%2B+Years+of+Analytics+Experience;BFSI+%7C+Insurance+%7C+Risk+Analytics;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Complex+Data+into+Business+Insights" alt="Typing SVG" />
+
+</div>
+
 <p align="center">
-  <a href="www.linkedin.com/in/disha-pramanick-96545a380"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:dishapramanick2018mail@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+
+<a href="https://www.linkedin.com/in/disha-pramanick-96545a380/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:dishapramanick2026@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://dishapramanick2018-eng.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-1A2A4C?style=for-the-badge&logo=githubpages&logoColor=white">
+</a>
+
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 👩‍💻 About Me
 
+I'm a **Data Analyst with 2+ years of experience** across analytics, business reporting, data quality, automation, and stakeholder-driven analysis.
 
+My experience includes working with **SQL, Power BI, Python, Excel, Tableau, and Azure Data Factory** to analyze business data, identify trends and anomalies, validate data quality, automate recurring workflows, and build stakeholder-ready reporting solutions.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://dishapramanick2018-eng.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I have worked across **financial services, insurance reporting, KPI analysis, data validation, root-cause analysis, and AI/LLM data operations**, with a strong interest in solving problems across **BFSI, Insurance, Risk, and Data Management**.
 
-- **Project A:** Developing an end-to-end Financial Data Analytics Dashboard using SQL, Python, and Tableau to analyze revenue trends, profitability, and key financial KPIs for business decision-making.  
-- **Project B:** Solving advanced SQL business case studies and building analytical queries using CTEs, Window Functions, Joins, and Subqueries to generate actionable insights from large-scale datasets.
+I enjoy going beyond dashboards — understanding the business question, validating whether the underlying data can be trusted, investigating the root cause, and translating analysis into actionable recommendations.
 
-## 🌱 Currently Learning 
+---
 
-- Advanced Data Engineering concepts, including scalable ETL pipelines, data modeling, and cloud-based analytics workflows on Google Cloud Platform (GCP).
-- Generative AI and LLM-powered analytics applications, focusing on prompt engineering, AI-assisted data analysis, and business intelligence automation.
+## 🌐 Portfolio
 
-## 🛠️ Technical Skillset
+### [View My Full Data Analytics Portfolio →](https://dishapramanick2018-eng.github.io/)
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+My portfolio includes end-to-end case studies across:
 
-#### Data Analysis & Visualization
+- Insurance & Risk Analytics
+- Data Quality & Validation
+- Credit Risk & Loan Analytics
+- Customer Behavior Analytics
+- Sales & Performance Analytics
+- Business Intelligence & Reporting
+
+---
+
+# 🚀 Featured Project
+
+## 🛡️ Insurance Claims Risk, Data Quality & Process Analytics
+
+An end-to-end insurance analytics case study analyzing **5,000 synthetic insurance claims** across data quality, claims operations, settlement performance, rejection patterns, and risk prioritization.
+
+### Key Outcomes
+
+- Analyzed **5,000 insurance claims**
+- Identified **208 records with data-quality exceptions**
+- Isolated **146 records with critical analytical issues**
+- Investigated settlement delays across policy and regional segments
+- Analyzed claim rejection patterns and missing rejection reasons
+- Developed a transparent risk-prioritization framework
+- Identified **256 claims for high-risk review**
+- Performed root-cause and outlier analysis
+- Translated findings into business requirements and process improvements
+- Developed UAT scenarios and a Requirements Traceability Matrix
+
+> **Note:** High-risk classification is used for analytical prioritization and further review; it does not indicate confirmed fraud.
+
+### Tech & Methods
+
+`Python` `Pandas` `NumPy` `Data Quality` `Insurance Analytics` `Risk Analytics` `Root Cause Analysis` `Business Analysis` `UAT`
+
+### 🔗 [View Full Insurance Case Study](https://github.com/dishapramanick2018-eng/insurance-claims-risk-data-quality-analytics)
+
+---
+
+# 📊 Other Analytics Projects
+
+## 🏦 Bank Loan Credit Risk & Portfolio Analytics
+
+Analyzed loan applications, funded amounts, repayments, and portfolio performance to identify lending trends, credit-risk indicators, and portfolio health.
+
+**Skills:** `SQL` `Tableau` `BFSI` `Credit Risk` `KPI Analysis`
+
+### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Bank_Loan_DB)
+
+---
+
+## 👥 Customer Behavior Analysis
+
+Analyzed customer demographics, purchasing patterns, and sales behavior to identify customer segments, behavioral patterns, and business trends.
+
+**Skills:** `SQL` `Python` `Power BI` `Customer Analytics` `EDA`
+
+### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Customer-Behavior-Analysis)
+
+---
+
+## 📈 Sales & Customer Performance Analytics
+
+Developed an interactive analytics solution to evaluate sales performance, customer behavior, product categories, payment methods, and monthly business trends.
+
+**Skills:** `Tableau` `Sales Analytics` `KPI Reporting` `Business Insights`
+
+### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Customer-Sales-Dashboard)
+
+---
+
+# 🛠️ Technical Skillset
+
+## 📊 Analytics & Business Intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-  <img src="https://img.shields.io/badge/DAX-Advanced-F39C12?style=flat" alt="DAX Skill Badge">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/DAX-F39C12?style=flat">
+<img src="https://img.shields.io/badge/Power%20Query-2F75B5?style=flat">
 </p>
 
-#### Programming & Automation
+**Core areas:** Data Analysis • Exploratory Data Analysis • KPI Reporting • Dashboard Development • Trend Analysis • Anomaly Detection • Business Reporting • Data Visualization
+
+---
+
+## 🐍 Python & Data Analysis
 
 <p>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/VBA-Advanced-107C41?style=flat&logo=microsoft-excel&logoColor=white" alt="VBA Skill Badge">
-  <img src="https://img.shields.io/badge/Reporting%20Automation-Advanced-5C6BC0?style=flat" alt="Reporting Automation Skill Badge">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat">
 </p>
 
-#### Data Engineering & Cloud
+**Core areas:** Data Cleaning • Data Transformation • Statistical Analysis • EDA • Automation • Data Validation
+
+---
+
+## 🗄️ SQL & Data
 
 <p>
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-Advanced-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure Data Factory Skill Badge">
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-Advanced-FF6F00?style=flat" alt="ETL Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Advanced-26A69A?style=flat" alt="Data Cleaning Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Validation-Advanced-8E24AA?style=flat" alt="Data Validation Skill Badge">
+<img src="https://img.shields.io/badge/SQL-Joins%20%7C%20CTEs%20%7C%20Window%20Functions-4479A1?style=flat">
+<img src="https://img.shields.io/badge/Data%20Quality-Validation-16A085?style=flat">
+<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-FF6F00?style=flat">
 </p>
 
-#### Business Intelligence & Analytics
+**SQL:** Joins • CTEs • Window Functions • Aggregations • Subqueries • Data Extraction • Data Validation
+
+---
+
+## ☁️ Data Engineering & Automation
 
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Advanced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Analytics-Advanced-45B7D1?style=flat" alt="Predictive Analytics Skill Badge">
-  <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-Advanced-2ECC71?style=flat" alt="EDA Skill Badge">
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-Advanced-E74C3C?style=flat" alt="Anomaly Detection Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Reporting-Advanced-96CEB4?style=flat" alt="KPI Reporting Skill Badge">
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/ETL-Pipelines-FF6F00?style=flat">
+<img src="https://img.shields.io/badge/Reporting-Automation-5C6BC0?style=flat">
 </p>
 
-#### AI & Generative AI
+**Core areas:** ETL • Reporting Automation • Excel/VBA Automation • Data Transformation • Data Validation • Workflow Improvement
+
+---
+
+## 💼 Business & Domain Expertise
 
 <p>
-  <img src="https://img.shields.io/badge/Generative%20AI-Advanced-6C5CE7?style=flat" alt="Generative AI Skill Badge">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-A55EEA?style=flat" alt="Prompt Engineering Skill Badge">
-  <img src="https://img.shields.io/badge/LLM%20Applications-Advanced-7B61FF?style=flat" alt="LLM Applications Skill Badge">
-  <img src="https://img.shields.io/badge/AI%20Data%20Annotation-Advanced-00B894?style=flat" alt="AI Annotation Skill Badge">
+<img src="https://img.shields.io/badge/BFSI-Analytics-1A2A4C?style=flat">
+<img src="https://img.shields.io/badge/Insurance-Analytics-2563EB?style=flat">
+<img src="https://img.shields.io/badge/Risk-Analytics-C0392B?style=flat">
+<img src="https://img.shields.io/badge/Business-Analysis-8E44AD?style=flat">
+<img src="https://img.shields.io/badge/Data-Quality-16A085?style=flat">
 </p>
 
-#### Professional Skills
+**Core areas:** Insurance Analytics • Financial Reporting • Risk Indicators • Requirements Analysis • Root Cause Analysis • UAT • Process Improvement • KPI Reporting
+
+---
+
+## 🤝 Professional Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Stakeholder%20Management-Advanced-34495E?style=flat" alt="Stakeholder Management Skill Badge">
-  <img src="https://img.shields.io/badge/Business%20Communication-Advanced-2980B9?style=flat" alt="Business Communication Skill Badge">
-  <img src="https://img.shields.io/badge/Agile%20Methodologies-Advanced-E74C3C?style=flat" alt="Agile Skill Badge">
+<img src="https://img.shields.io/badge/Stakeholder%20Communication-34495E?style=flat">
+<img src="https://img.shields.io/badge/Cross--functional%20Collaboration-2980B9?style=flat">
+<img src="https://img.shields.io/badge/Agile-E74C3C?style=flat">
+<img src="https://img.shields.io/badge/Problem%20Solving-2C3E50?style=flat">
 </p>
 
+---
+
+# 💼 Professional Experience
+
+### Analyst – Data & AI | Innodata
+**Jan 2026 – Apr 2026**
+
+- Validated and analyzed **500K+ records** across AI/LLM data workflows
+- Built **5+ Power BI dashboards** and recurring KPI reports
+- Automated reporting and validation workflows using Python, VBA, and Excel
+- Supported data-quality analysis, analytical QA, and stakeholder reporting
+
+### Associate Software Engineer | Accenture
+**Nov 2023 – Aug 2025**
+
+- Analyzed financial and insurance datasets using SQL and Excel
+- Developed **3+ Power BI dashboards** for recurring business reporting
+- Supported Azure Data Factory ETL workflows
+- Performed data validation, reconciliation, and root-cause analysis
+- Automated analytical and reporting activities using Python and SQL
+
+---
+
+# 🎓 Certifications
+
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**
+- **Google Data Analytics Professional Certificate — Coursera**
+- **Deloitte Data Analytics Job Simulation — Forage**
+
+---
+
+# 🌱 Currently Exploring
+
+- Advanced SQL and analytical problem solving
+- Data quality and data governance
+- Scalable ETL and data modeling
+- Cloud-based analytics workflows
+- AI-assisted analytics and reporting automation
+
+---
+
+# 📫 Let's Connect
+
+I'm interested in opportunities across **Data Analytics, Business Intelligence, BFSI Analytics, Insurance Analytics, Risk Analytics, and Data Management**.
+
+📧 **Email:** dishapramanick2026@gmail.com  
+💼 **LinkedIn:** [Disha Pramanick](https://www.linkedin.com/in/disha-pramanick-96545a380/)  
+🌐 **Portfolio:** [dishapramanick2018-eng.github.io](https://dishapramanick2018-eng.github.io/)  
+💻 **GitHub:** [dishapramanick2018-eng](https://github.com/dishapramanick2018-eng)
+
+---
+
+<div align="center">
+
+### Data → Insight → Decision
+
+<sub>Built by Disha Pramanick</sub>
+
+</div>
