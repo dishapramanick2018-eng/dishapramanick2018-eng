@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Business+Analytics;2%2B+Years+of+Analytics+Experience;BFSI+%7C+Insurance+%7C+Retail+%7C+E-commerce;Customer+Retention+%7C+Cohort+%7C+RFM+Analytics;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Complex+Data+into+Business+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+Business+%26+Product+Analytics;2%2B+Years+of+Analytics+Experience;BFSI+%7C+Insurance+%7C+Retail+%7C+E-commerce;Conversion+%7C+Funnel+%7C+Retention+%7C+Cohort+Analytics;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Complex+Data+into+Business+Insights" alt="Typing SVG" />
 
 </div>
 
@@ -32,9 +32,9 @@ My experience includes working with **SQL, Power BI, Python, Excel, Tableau, and
 
 My professional experience includes **financial services, insurance reporting, KPI analysis, data validation, root-cause analysis, and AI/LLM data operations**.
 
-Alongside my BFSI and insurance experience, I am actively building domain expertise in **Retail and E-commerce Analytics**, with a focus on **customer behavior, retention, cohort analysis, RFM segmentation, GMV, AOV, repeat purchase behavior, returns, cancellations, category performance, and promotional analytics**.
+Alongside my BFSI and insurance experience, I have built hands-on analytics projects across **Product, Retail, E-commerce, Customer, and Commercial Analytics**, with a focus on **conversion funnels, customer behavior, retention, cohort analysis, RFM segmentation, GMV, AOV, repeat purchasing, returns, cancellations, category performance, and promotional analytics**.
 
-I enjoy going beyond dashboards — understanding the business question, validating whether the underlying data can be trusted, investigating the root cause, and translating analysis into actionable recommendations.
+I enjoy going beyond dashboards — understanding the business question, validating whether the underlying data can be trusted, diagnosing what changed and why, quantifying business impact, and translating analysis into actionable recommendations.
 
 ---
 
@@ -44,6 +44,7 @@ I enjoy going beyond dashboards — understanding the business question, validat
 
 My portfolio includes end-to-end case studies across:
 
+- Product & Conversion Analytics
 - Retail & E-commerce Analytics
 - Customer Retention & Cohort Analysis
 - Insurance & Risk Analytics
@@ -56,6 +57,58 @@ My portfolio includes end-to-end case studies across:
 ---
 
 # 🚀 Featured Projects
+
+## 📈 E-commerce Product Conversion & Growth Analytics
+
+Built an end-to-end product analytics case study to diagnose **conversion deterioration across 30,000 shopping sessions** and determine where performance changed across the customer funnel.
+
+The project uses **session-level analysis** rather than raw event counts to avoid inflating conversion denominators, and combines funnel diagnostics, historical baseline comparisons, device-channel interaction analysis, commercial impact estimation, SQL analysis, Excel reporting, and an interactive Streamlit application.
+
+### Executive Baseline
+
+- **30,000** shopping sessions
+- **5,482** purchase sessions
+- **18.27%** overall conversion rate
+- **₹15.29M** GMV
+- **₹2,788.55** Average Order Value
+- **51.59%** cart abandonment rate
+
+### Root-Cause Analysis
+
+- Detected clear conversion deterioration in **June 2026**
+- Compared diagnostic-period performance against each segment's own historical baseline
+- Distinguished **traffic-mix effects from within-segment performance deterioration**
+- Identified **Mobile × Paid Search** as the key deteriorating segment
+- Conversion declined from **17.65% to 9.40%**
+- Isolated the primary friction at **Checkout → Purchase**
+- Checkout → Purchase performance declined by approximately **24.20 percentage points**
+- Estimated a **98-purchase gap** versus the historical-baseline scenario
+- Used the impact estimate as a diagnostic scenario rather than a causal forecast
+
+### Analytical Approach
+
+- Data-quality validation and cleaning
+- Session-level KPI modeling
+- Monthly conversion trend analysis
+- Funnel analysis
+- Device and acquisition-channel analysis
+- Customer-type and category analysis
+- Device × Channel interaction analysis
+- Pre/post historical baseline comparison
+- Traffic Mix vs Performance decomposition
+- Root-cause diagnosis
+- Commercial impact estimation
+- Business recommendations
+
+### Tech & Methods
+
+`Python` `Pandas` `SQL` `SQLite` `Excel` `Streamlit` `Plotly` `Product Analytics` `Conversion Analysis` `Funnel Analysis` `Root Cause Analysis` `Commercial Impact Analysis`
+
+### 🌐 [Launch Live Streamlit Analysis](https://ecommerce-conversion-growth-analytics.streamlit.app/)
+
+### 🔗 [View Full Case Study](https://github.com/dishapramanick2018-eng/ecommerce-conversion-growth-analytics)
+
+---
 
 ## 🛒 E-commerce Customer Retention & Cohort Analysis
 
@@ -113,6 +166,16 @@ An end-to-end insurance analytics case study analyzing **5,000 synthetic insuran
 
 # 📊 Other Analytics Projects
 
+## 🛍️ Retail Customer Shopping & Segmentation Analytics
+
+Built an end-to-end retail analytics project to analyze **customer shopping behavior, purchasing patterns, customer segments, product performance, discounts, and commercial trends**.
+
+**Skills:** `Python` `SQL` `Power BI` `Retail Analytics` `Customer Segmentation` `EDA`
+
+### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Retail-Customer-Shopping-Segmentation-Analytics)
+
+---
+
 ## 🏦 Bank Loan Credit Risk & Portfolio Analytics
 
 Analyzed loan applications, funded amounts, repayments, and portfolio performance to identify lending trends, credit-risk indicators, and portfolio health.
@@ -123,16 +186,6 @@ Analyzed loan applications, funded amounts, repayments, and portfolio performanc
 
 ---
 
-## 👥 Customer Behavior Analysis
-
-Analyzed customer demographics, purchasing patterns, and sales behavior to identify customer segments, behavioral patterns, and business trends.
-
-**Skills:** `SQL` `Python` `Power BI` `Customer Analytics` `EDA`
-
-### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Customer-Behavior-Analysis)
-
----
-
 ## 📈 Sales & Customer Performance Analytics
 
 Developed an interactive analytics solution to evaluate sales performance, customer behavior, product categories, payment methods, and monthly business trends.
@@ -140,6 +193,16 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 **Skills:** `Tableau` `Sales Analytics` `KPI Reporting` `Business Insights`
 
 ### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Customer-Sales-Dashboard)
+
+---
+
+## 🦠 COVID-19 Data Exploration
+
+Explored population-level COVID-19 data using SQL to analyze infection, mortality, and geographic patterns.
+
+**Skills:** `SQL` `Data Exploration` `Public Health Data` `Data Analysis`
+
+### 🔗 [View Project](https://github.com/dishapramanick2018-eng/Covid-Data-Exploration)
 
 ---
 
@@ -186,9 +249,12 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 
 ---
 
-## 🛒 Retail & E-commerce Analytics
+## 🛒 Product, Retail & E-commerce Analytics
 
 <p>
+<img src="https://img.shields.io/badge/Product-Analytics-2563EB?style=flat">
+<img src="https://img.shields.io/badge/Conversion-Analysis-0EA5E9?style=flat">
+<img src="https://img.shields.io/badge/Funnel-Analysis-1A2A4C?style=flat">
 <img src="https://img.shields.io/badge/E--commerce-Analytics-16A085?style=flat">
 <img src="https://img.shields.io/badge/Customer-Retention-2980B9?style=flat">
 <img src="https://img.shields.io/badge/Cohort-Analysis-8E44AD?style=flat">
@@ -196,7 +262,7 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 <img src="https://img.shields.io/badge/GMV-AOV-34495E?style=flat">
 </p>
 
-**Core areas:** Customer Retention • Cohort Analysis • RFM Segmentation • Repeat Purchase Analysis • GMV • AOV • Customer Value • Category Performance • Returns & Cancellations • Discount Analysis • Promotional Performance
+**Core areas:** Conversion Analysis • Funnel Analysis • Customer Retention • Cohort Analysis • RFM Segmentation • Repeat Purchase Analysis • GMV • AOV • Customer Value • Category Performance • Returns & Cancellations • Discount Analysis • Promotional Performance
 
 ---
 
@@ -218,6 +284,7 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 <p>
 <img src="https://img.shields.io/badge/BFSI-Analytics-1A2A4C?style=flat">
 <img src="https://img.shields.io/badge/Insurance-Analytics-2563EB?style=flat">
+<img src="https://img.shields.io/badge/Product-Analytics-0EA5E9?style=flat">
 <img src="https://img.shields.io/badge/Retail-Analytics-E67E22?style=flat">
 <img src="https://img.shields.io/badge/E--commerce-Analytics-16A085?style=flat">
 <img src="https://img.shields.io/badge/Customer-Analytics-8E44AD?style=flat">
@@ -227,7 +294,7 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 
 **Professional domain experience:** Insurance Analytics • Financial Reporting • Risk Indicators • Data Quality • Requirements Analysis • Root Cause Analysis • Process Improvement • KPI Reporting
 
-**Retail & E-commerce analytics focus:** Customer Retention • Cohort Analysis • RFM Segmentation • GMV • AOV • Repeat Purchase Analysis • Returns & Cancellations • Category Performance • Discount Analysis • Customer Behavior
+**Product, Retail & E-commerce analytics focus:** Conversion Analysis • Funnel Analysis • Customer Retention • Cohort Analysis • RFM Segmentation • GMV • AOV • Repeat Purchase Analysis • Returns & Cancellations • Category Performance • Discount Analysis • Customer Behavior
 
 ---
 
@@ -252,7 +319,7 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 - Automated reporting and validation workflows using Python, VBA, and Excel
 - Supported data-quality analysis, analytical QA, and stakeholder reporting
 
-### Associate Software Engineer | Accenture
+### Associate Software Engineer (Data Analytics & Business Reporting) | Accenture
 **Nov 2023 – Aug 2025**
 
 - Analyzed financial and insurance datasets using SQL and Excel
@@ -273,10 +340,10 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 
 # 🌱 Currently Exploring
 
-- Retail and E-commerce Analytics
+- Product and E-commerce Analytics
+- Conversion & Funnel Analytics
 - Customer Retention & Lifecycle Analytics
 - Cohort Analysis and RFM Segmentation
-- Funnel and Conversion Analysis
 - Pricing, Discount and Promotional Analytics
 - Advanced SQL and analytical problem solving
 - Data Quality and Data Governance
@@ -290,11 +357,12 @@ Developed an interactive analytics solution to evaluate sales performance, custo
 
 I'm particularly interested in solving analytical problems around:
 
+- **Conversion & Funnel Analytics** — diagnosing where and why users drop off across a customer journey
+- **Product Analytics** — connecting user behavior and funnel performance with measurable business outcomes
 - **Customer Retention** — understanding why customers return or become inactive
 - **Customer Segmentation** — identifying meaningful behavioral and value-based customer groups
 - **E-commerce Growth** — analyzing GMV, AOV, repeat purchases, categories and promotions
 - **Cohort Analytics** — tracking customer behavior after acquisition
-- **Funnel & Conversion Analytics** — understanding where users drop off across a customer journey
 - **Pricing & Discount Analytics** — evaluating promotional performance beyond transaction volume
 - **Business Intelligence** — translating complex datasets into stakeholder-ready insights
 - **Data Quality** — ensuring business decisions are based on reliable and validated data
@@ -304,7 +372,7 @@ I'm particularly interested in solving analytical problems around:
 
 # 📫 Let's Connect
 
-I'm interested in opportunities across **Data Analytics, Business Intelligence, Retail & E-commerce Analytics, Customer Analytics, BFSI Analytics, Insurance Analytics, and Risk Analytics**.
+I'm interested in opportunities across **Data Analytics, Business Intelligence, Business Analytics, Product Analytics, Retail & E-commerce Analytics, Customer Analytics, BFSI Analytics, and Insurance Analytics**.
 
 📧 **Email:** dishapramanick2026@gmail.com  
 💼 **LinkedIn:** [Disha Pramanick](https://www.linkedin.com/in/disha-pramanick-96545a380/)  
